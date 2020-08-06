@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adopt-dogs/static/css/main.5c3571c6.chunk.css",
+    "main.js": "/adopt-dogs/static/js/main.79982975.chunk.js",
+    "main.js.map": "/adopt-dogs/static/js/main.79982975.chunk.js.map",
+    "runtime-main.js": "/adopt-dogs/static/js/runtime-main.801cf54b.js",
+    "runtime-main.js.map": "/adopt-dogs/static/js/runtime-main.801cf54b.js.map",
+    "static/js/2.fd721208.chunk.js": "/adopt-dogs/static/js/2.fd721208.chunk.js",
+    "static/js/2.fd721208.chunk.js.map": "/adopt-dogs/static/js/2.fd721208.chunk.js.map",
+    "index.html": "/adopt-dogs/index.html",
+    "precache-manifest.c9e8f6c8f28854f9484d933744df4d12.js": "/adopt-dogs/precache-manifest.c9e8f6c8f28854f9484d933744df4d12.js",
+    "service-worker.js": "/adopt-dogs/service-worker.js",
+    "static/css/main.5c3571c6.chunk.css.map": "/adopt-dogs/static/css/main.5c3571c6.chunk.css.map",
+    "static/js/2.fd721208.chunk.js.LICENSE.txt": "/adopt-dogs/static/js/2.fd721208.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.801cf54b.js",
+    "static/js/2.fd721208.chunk.js",
+    "static/css/main.5c3571c6.chunk.css",
+    "static/js/main.79982975.chunk.js"
+  ]
+}
